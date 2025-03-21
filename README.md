@@ -1,4 +1,5 @@
 # Number Guessing Game
+A fun little game, naive but fun...check out for yourself!!
 
 # Functionality
 > Should work in every version of C++ after and with C++11
@@ -27,5 +28,10 @@
 `Replayabilty`
 
 > Well number are random and there are a lot of messages which you might not discover on the first try...you can play again to find out :D
+
+# License
+> Use it however you wish just mention me (UnqGit or Vishesh) :D.
+
+> It is licensed under MIT.
 
 # me reading for Thanks
